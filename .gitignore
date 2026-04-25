@@ -76,8 +76,6 @@ guthealth/.env
 **/credentials*
 **/secrets*
 **/*secret*
-**/*password*
-guthealth_app/android/key.properties
 **/*token*
 
 # Logs
